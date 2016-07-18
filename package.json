@@ -1,0 +1,34 @@
+{
+  "name": "jingoal-sprite",
+  "version": "1.0.12",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jingoal-chengdu/jingoal-sprite.git"
+  },
+  "author": {
+    "name": "985867294@qq.com"
+  },
+  "dependencies": {
+    "concat-stream": "latest",
+    "gm": "^1.22.0",
+    "gulp-util": "^3.0.7",
+    "pixelsmith": "^2.1.0",
+    "pngjs2": "latest",
+    "q": "^1.4.1",
+    "through2": "^2.0.1"
+  },
+  "keywords": [
+    "sprite"
+  ],
+  "maintainers": [
+    {
+      "name": "lirongfei123",
+      "email": "lirongfei985@gmail.com"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
