@@ -1,3 +1,5 @@
+从jingoal-sprite代码库Fork而来，由Jingoal成都团队维护
+
 ## 项目说明
 此项目服务于 [postcss-jingoal-sprite](https://github.com/jingoal-chengdu/postcss-jingoal-sprite)
 ## 项目用途
