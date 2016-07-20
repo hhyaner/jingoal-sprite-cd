@@ -1,5 +1,5 @@
 {
-  "name": "jingoal-sprite",
+  "name": "jingoal-sprite-cd",
   "version": "1.0.12",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jingoal-chengdu/jingoal-sprite.git"
+    "url": "git@github.com:jingoal-chengdu/jingoal-sprite-cd.git"
   },
   "author": {
     "name": "985867294@qq.com"
